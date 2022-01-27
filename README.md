@@ -34,3 +34,14 @@ git  push origin main
 git  pull origin main
 ```
 - :eye: sirve para poder descargar los cambios en nuestro repositorio  en la nube , en este caso gitHub 
+
+```
+git  branch
+```
+- :eye: sirve para poder listar los branch que tengo localmente  y me dice en cual me encuentro localmente.
+
+```
+git checkout -b nombre_del_branch
+git  check out -b develop
+```
+- :eye: sirve para crear una rama principal 
