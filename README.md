@@ -44,3 +44,10 @@ git checkout -b nombre_del_branch
 git  check out -b develop
 ```
 - Sirve para crear una rama principal
+
+```
+git checkout  nombre_del_branch
+
+```
+- Sirve para poder moverme entre ramas.
+-:eye: solamente se crea el branch, si el checkout no tiene -b solo e spara moverse entre ramas.
